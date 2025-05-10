@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dushan Bhagya</h1>
-<h3 align="center">A passionate Dev from Sri Lanka</h3>
+<h3 align="center">A passionate Developer from Sri Lanka with a background in Quality Assurance (QA), blending a keen eye for detail with a strong drive to build clean, efficient, and user-focused software solutions. Experienced in identifying issues before they arise, ensuring high performance and reliability in every line of code. Committed to continuous learning, collaboration, and delivering real value through technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dushan-rathnakumara-130105259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dushan-rathnakumara-130105259/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/dushan.bhagya.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dushan.bhagya.5/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
