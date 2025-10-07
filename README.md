@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Dushan+Bhagya!;🚀+Developer+from+Sri+Lanka;💡+QA+Engineer+turned+Full-Stack+Developer;🛠️+Clean+Code+%26+Smart+Design+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Dushan+Bhagya!;🚀+Developer+from+Sri+Lanka;💡+Full-Stack+Developer;🛠️+Clean+Code+%26+Smart+Design+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,flutter,react,vue,html,css,nodejs,express,nestjs,tailwind,mongodb,mysql,postgres,firebase,docker,aws,azure,selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,express,mongodb,mysql,postgresql,sqlite,redis,graphql,prisma,docker,aws,gcp,vercel,netlify,git,github,vscode,postman,figma,linux,bash,tensorflow,pytorch&theme=dark" />
 </p>
 
 ---
