@@ -1,76 +1,67 @@
-<h1 align="center">👋 Hi there, I'm Dushan Bhagya</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Dushan+Bhagya!;🚀+Developer+from+Sri+Lanka;💡+QA+Engineer+turned+Full-Stack+Developer;🛠️+Clean+Code+%26+Smart+Design+Enthusiast" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  🚀 Developer from Sri Lanka | 🛠️ Ex-QA Engineer | 💡 Problem Solver <br>
-  Passionate about building clean, efficient, and user-focused software solutions.
-</p>
-
-<p align="center">
-  <em>"Blending QA precision with developer creativity to craft seamless tech experiences."</em>
+  <em>“Blending QA precision with developer creativity to craft seamless tech experiences.”</em>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔍 Former QA engineer turned passionate software developer  
-- 💻 Obsessed with clean code and high-performing apps  
-- 🤝 Believer in teamwork, knowledge-sharing, and continuous learning  
+### 🧑‍💻 About Me  
+- 🔍 Ex-QA Engineer turned passionate software developer  
+- 💻 Love crafting clean, scalable, high-performing apps  
+- 🤝 Believe in teamwork, curiosity, and continuous learning  
 - 📈 Focused on delivering **real business value through tech**
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
+### 🌐 Connect with Me  
+<p align="center">
   <a href="https://www.linkedin.com/in/dushan-rathnakumara-130105259/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/dushan.bhagya.5/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/dushanblazebhagya" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
+### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,flutter,react,vue,html,css,nodejs,express,nestjs,tailwind,mongodb,mysql,postgres,firebase,docker,aws,azure,selenium&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dushanbhagya&show_icons=true&theme=radical" alt="dushanbhagya stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushanbhagya&theme=radical" alt="dushanbhagya streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dushanblazebhagya&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushanblazebhagya&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushanblazebhagya&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I test like a QA and build like a dev — spotting bugs before they know they exist 😎
+### 🐍 GitHub Contribution  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dushanblazebhagya/dushanblazebhagya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
+### ⚡ Fun Fact  
+> I test like a QA and build like a dev — spotting bugs before they even exist 😎
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
