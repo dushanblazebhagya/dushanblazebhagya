@@ -40,14 +40,23 @@
 
 ### 📊 GitHub Stats & Contributions
 <p align="center">
-  <!-- Updated with cache-bypass -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dushanblazebhagya&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub stats" />
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushanblazebhagya&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub streak" />
+  <!-- GitHub Stats -->
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=dushanblazebhagya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" 
+       alt="GitHub stats" />
+
+  <!-- GitHub Streak -->
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=dushanblazebhagya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=3600" 
+       alt="GitHub streak" />
+
 </p>
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushanblazebhagya&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushanblazebhagya&theme=redical&hide_border=true&area=true" 
+       alt="Contribution Graph" />
 </p>
 
 ---
