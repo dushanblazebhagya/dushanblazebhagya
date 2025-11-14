@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushanblazebhagya&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=dushanblazebhagya&theme=redical&hide_border=true&area=true](https://github-readme-streak-stats.herokuapp.com/?user=dushanblazebhagya&theme=radical&hide_border=true&cache_seconds=3600)" alt="Contribution Graph" />
 </p>
 
 ---
