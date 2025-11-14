@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 About Me  
+### 🧑‍💻 About Me
 - 🔍 Ex-QA Engineer turned passionate software developer  
 - 💻 Love crafting clean, scalable, high-performing apps  
 - 🤝 Believe in teamwork, curiosity, and continuous learning  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dushan-rathnakumara-130105259/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,26 +31,26 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,nodejs,express,mongodb,mysql,postgresql,sqlite,redis,graphql,prisma,docker,aws,gcp,vercel,netlify,git,github,vscode,postman,figma,linux,bash,tensorflow,pytorch&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Contributions  
+### 📊 GitHub Stats & Contributions
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dushanblazebhagya&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushanblazebhagya&theme=radical&hide_border=true" alt="GitHub streak" />
+  <!-- Updated with cache-bypass -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dushanblazebhagya&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub stats" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dushanblazebhagya&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=dushanblazebhagya&theme=redical&hide_border=true&area=true](https://github-readme-streak-stats.herokuapp.com/?user=dushanblazebhagya&theme=radical&hide_border=true&cache_seconds=3600)" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushanblazebhagya&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
-
-//refresh
 
 ### ⚡ Fun Fact  
 > I test like a QA and build like a dev — spotting bugs before they even exist 😎
